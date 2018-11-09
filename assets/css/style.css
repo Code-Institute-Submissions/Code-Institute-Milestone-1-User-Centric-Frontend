@@ -3,6 +3,14 @@ body {
    margin: 0;
 }
 
-h1 {
+h1, h2 {
    font-family: "Pattaya", sans-serif;
+}
+
+.callout-container {
+   height: 100vh;
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }

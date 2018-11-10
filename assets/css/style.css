@@ -7,10 +7,36 @@ h1, h2 {
    font-family: "Pattaya", sans-serif;
 }
 
+/*
+*
+** CALLOUT CONTAINER
+*
+*/
+
 .callout-container {
    height: 100vh;
+
+   background: url('../images/dublin_callout.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
    display: flex;
    align-items: center;
    justify-content: center;
+}
+
+.jumbotron {
+   background: rgba(0,0,0,.5);
+   border-radius: 100px;
+   color: white;
+}
+
+.jumbotron h1 {
+   letter-spacing: 0.1em;
+}
+
+.jumbotron p {
+   letter-spacing: 0.1em;
 }

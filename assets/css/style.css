@@ -17,21 +17,6 @@ h1, h2 {
    margin-bottom: 25px
 }
 
-.images {
-   width: 50vh;
-   border: 8px solid
-}
-
-.images--borderOrange {
-   border-color: orange;
-}
-
-@media (min-width: 1200px) {
-   .images {
-      width: 70vh;
-   }
-}
-
 .block-divider {
    width: 60px;
    height: 3px;
@@ -39,10 +24,17 @@ h1, h2 {
    background-color: #ffa500;
 }
 
-.iframe--maxWidth {
-   max-width: 80%;
+@media (min-width: 768px) {
+  .flex {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+  }
 }
 
+.info {
+  margin-bottom: 35px;
+}
 
 /*
 *
@@ -175,6 +167,6 @@ h1, h2 {
 */
 
 .howth-container {
-   margin: 15px 0;
+  background-color: #f6eded;
 }
 

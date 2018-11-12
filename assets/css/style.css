@@ -55,6 +55,16 @@ h1, h2 {
    border: 0;
 }
 
+.navbar-btn {
+  margin: auto;
+}
+
+@media (min-width: 992px) {
+  .navbar-btn {
+    margin: 0;
+  }
+}
+
 .navbar-default .navbar-brand {
    font-family: "Pattaya", sans-serif;
    font-size: 1.75em;

@@ -222,11 +222,69 @@ h1, h2 {
 
 /*
 *
-** FOOTER CONTAINER
+** CONTACT CONTAINER
 *
 */
 
-.container-footer {
-  background-color: #d5d5d5;
+
+.container-contact {
+  background-color: #c8c8c8;
   padding-bottom: 25px;
+}
+
+/*
+*
+** FOOTER
+*
+*/
+
+footer {
+  background-color: #101010be;
+  padding-bottom: 25px;
+  color: white;
+}
+
+footer h5 {
+  font-size: 1.2em;
+}
+
+.destinations {
+  list-style: none;
+  padding-left: 6px;
+}
+
+.destinations a {
+  color: white;
+}
+
+.destinations a:hover {
+  color: #c7c0c0;
+  text-decoration: none;
+}
+
+.social-links {
+  padding: 0;
+}
+
+.social-links li {
+  list-style: none;
+}
+
+.social-links li a i {
+  width: 32px;
+  height: 32px;
+  padding: 12px 0;
+  border-radius: 50%;
+  font-size: 13px;
+  line-height: 7px;
+  text-align: center;
+  color: #fafafa;
+  background: #8f8f8f;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+  background-color: #ff1919;
 }

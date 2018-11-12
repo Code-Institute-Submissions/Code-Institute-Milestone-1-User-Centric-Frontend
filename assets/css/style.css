@@ -9,7 +9,7 @@ h1, h2 {
 
 /*
 *
-** BLOCK ELEMENTS
+** BLOCK ELEMENT MODIFIER
 *
 */
 
@@ -24,11 +24,16 @@ h1, h2 {
    background-color: #ffa500;
 }
 
+.row__col-xs-12--padding-zero {
+  padding: 0px;
+}
+
 @media (min-width: 768px) {
   .flex {
     display: flex;
     align-items: center;
     padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
@@ -168,6 +173,7 @@ h1, h2 {
 
 .howth-container {
   background-color: #f6eded;
+  padding-bottom: 25px;
 }
 
 /*
@@ -178,6 +184,7 @@ h1, h2 {
 
 .phoenix-park-container {
   background-color: white;
+  padding-bottom: 25px;
 }
 
 /*
@@ -188,4 +195,38 @@ h1, h2 {
 
 .jamson-container {
   background-color: #f6eded;
+  padding-bottom: 25px;
+}
+
+/*
+*
+** TEMPLE BAR CONTAINER
+*
+*/
+
+.temple-bar-container {
+  background-color: white;
+  padding-bottom: 25px;
+}
+
+/*
+*
+** JAMSON CONTAINER
+*
+*/
+
+.guinness-container {
+  background-color: #f6eded;
+  padding-bottom: 25px;
+}
+
+/*
+*
+** FOOTER CONTAINER
+*
+*/
+
+.container-footer {
+  background-color: #d5d5d5;
+  padding-bottom: 25px;
 }

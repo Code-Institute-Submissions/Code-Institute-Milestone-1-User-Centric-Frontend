@@ -241,7 +241,7 @@ h1, h2 {
 .footer-container {
   background-color: #101010be;
   padding-bottom: 5px;
-  color: white;
+  color: #fafafa;
 }
 
 .footer-container h5 {
@@ -254,7 +254,7 @@ h1, h2 {
 }
 
 .destinations a {
-  color: white;
+  color: #fafafa;
 }
 
 .destinations a:hover {

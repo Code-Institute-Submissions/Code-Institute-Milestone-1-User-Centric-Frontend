@@ -13,6 +13,17 @@ h1, h2 {
 *
 */
 
+.btn--red {
+  background-color: #ff1919;
+}
+
+.btn--cta {
+  border-color: black;
+  border-radius: 12px;
+  color: white;
+  font-weight: bold;
+}
+
 .row--marginBottom {
    margin-bottom: 25px
 }
@@ -53,16 +64,6 @@ h1, h2 {
    position: absolute;
    width: 100%;
    border: 0;
-}
-
-.navbar-btn {
-  margin: auto;
-}
-
-@media (min-width: 992px) {
-  .navbar-btn {
-    margin: 0;
-  }
 }
 
 .navbar-default .navbar-brand {

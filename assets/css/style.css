@@ -133,7 +133,7 @@ h1, h2 {
  }
 
  .navbar-default .navbar-text {
-   color: #e8d7b5d6;
+   color: white;
  }
 .navbar-btn {
    background-color: #ff1919;
@@ -184,7 +184,7 @@ h1, h2 {
 }
 
 .jumbotron {
-   background: rgba(0,0,0,.5);
+   background: rgba(0,0,0,.72);
    border-radius: 100px;
    color: white;
 }
@@ -195,6 +195,17 @@ h1, h2 {
 
 .jumbotron p {
    letter-spacing: 0.1em;
+}
+
+.jumbotron .lead {
+  letter-spacing: 0;
+  color: white;
+  font-size: 30px;
+  font-family: Pattaya;
+  position: relative;
+  top: 16px;
+  right: 32px;
+  transform: rotate(-18deg);
 }
 
 /*

@@ -264,6 +264,11 @@ h1, h2 {
   padding-bottom: 25px;
 }
 
+.offset {
+  padding: 0 15px;
+}
+
+
 /*
 *
 ** FOOTER
@@ -318,4 +323,16 @@ h1, h2 {
 
 .social-links li a i:hover {
   background-color: #ff1919;
+}
+
+/*
+*
+** MODAL
+*
+*/
+
+.btn-success:hover {
+  color: white;
+  background-color: #05a005;
+  border-color: black;
 }

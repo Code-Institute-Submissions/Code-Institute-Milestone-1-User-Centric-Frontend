@@ -83,10 +83,6 @@ h1, h2 {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:hover {
    color: white;
-
-   -ms-transform: rotate(0deg);
-   -webkit-transform: rotate(0deg);
-   transform: rotate(0deg);
 }
 
 .navbar-nav {

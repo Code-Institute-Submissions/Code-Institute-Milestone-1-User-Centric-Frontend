@@ -336,6 +336,19 @@ h1, h2 {
   background-color: #ff1919;
 }
 
+.back-to-top-tbn {
+  color: #fafafa;
+}
+
+.far {
+  font-size: 38px;
+  margin-top: 8px;
+}
+
+.far:hover {
+  color: red;
+}
+
 /*
 *
 ** MODAL

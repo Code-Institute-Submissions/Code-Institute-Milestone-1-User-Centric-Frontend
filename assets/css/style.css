@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;  /* it is not supported for all browsers such as E, Safari, Opera https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior */
+}
+
 body {
    font-family: "Roboto", sans-serif;
    margin: 0;
@@ -342,7 +346,8 @@ h1, h2 {
 
 .far {
   font-size: 38px;
-  margin-top: 8px;
+  margin-top: 12px;
+  padding: 5px;
 }
 
 .far:hover {

@@ -171,7 +171,8 @@ h1, h2 {
  .navbar-default .navbar-text {
    color: white;
  }
-.navbar-btn {
+
+ .navbar-btn {
    border-color: black;
    border-radius: 12px;
    color: black;

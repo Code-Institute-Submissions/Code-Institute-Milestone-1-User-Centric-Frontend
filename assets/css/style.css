@@ -7,6 +7,10 @@ body {
    margin: 0;
 }
 
+p {
+  font-size: 1.1em;
+}
+
 h1, h2 {
    font-family: "Pattaya", sans-serif;
 }
@@ -17,15 +21,30 @@ h1, h2 {
 *
 */
 
-.btn--red {
-  background-color: #ff1919;
+.btn--pink {
+  background-color: #efb9e3;
+}
+
+.container--bg-pink {
+  background-color: rgba(234, 39, 194, 0.11);
+}
+
+.container--bg-white {
+  background-color: white;
+}
+
+.container--padding-bottom-25px {
+  padding-bottom: 25px;
 }
 
 .btn--cta {
   border-color: black;
   border-radius: 12px;
-  color: white;
+  color: black;
   font-weight: bold;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
 }
 
 .row--marginBottom {
@@ -36,7 +55,7 @@ h1, h2 {
    width: 60px;
    height: 3px;
    border: 0;
-   background-color: #ffa500;
+   background-color: #9d245c;
 }
 
 .row__col-xs-12--padding-zero {
@@ -63,6 +82,14 @@ h1, h2 {
 
 .form__btn--margin-top {
   margin-top: 5px;
+}
+
+.anchor--pink {
+  color: #b35180; 
+}
+
+.anchor--pink:hover {
+  color: #b35180; 
 }
 
 /*
@@ -110,7 +137,7 @@ h1, h2 {
   color: white;
 }
 
-
+/* HOVER.CSS http://ianlunn.github.io/Hover/ */
 .hvr-underline-from-center {  /* Underline From Center - hover effect*/
    display: inline-block;
    vertical-align: middle;
@@ -127,7 +154,7 @@ h1, h2 {
    left: 51%;
    right: 51%;
    bottom: 0;
-   background: rgb(255, 59, 59);
+   background: rgb(185, 7, 56);
    height: 1px;
    -webkit-transition-property: left, right;
    transition-property: left, right;
@@ -145,17 +172,19 @@ h1, h2 {
    color: white;
  }
 .navbar-btn {
-   background-color: #ff1919;
    border-color: black;
    border-radius: 12px;
-   color: white;
+   color: black;
    font-weight: bold;
+   -moz-transition: all 0.35s ease-in-out;
+   -webkit-transition: all 0.35s ease-in-out;
+   -o-transition: all 0.35s ease-in-out;
 }
 
 .btn.focus, .btn:focus,
 .btn:hover {
    color: white;
-   background-color: #d20000;
+   background-color: #aa0a11;
    border-color: black;
 }
 
@@ -169,7 +198,7 @@ h1, h2 {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color:#ff1919;
+  background-color: #efb9e3;
 }
 
 /*
@@ -223,10 +252,6 @@ h1, h2 {
 *
 */
 
-.howth-container {
-  background-color: #f6eded;
-  padding-bottom: 25px;
-}
 
 /*
 *
@@ -234,10 +259,6 @@ h1, h2 {
 *
 */
 
-.phoenix-park-container {
-  background-color: white;
-  padding-bottom: 25px;
-}
 
 /*
 *
@@ -245,10 +266,6 @@ h1, h2 {
 *
 */
 
-.jamson-container {
-  background-color: #f6eded;
-  padding-bottom: 25px;
-}
 
 /*
 *
@@ -256,10 +273,6 @@ h1, h2 {
 *
 */
 
-.temple-bar-container {
-  background-color: white;
-  padding-bottom: 25px;
-}
 
 /*
 *
@@ -267,10 +280,6 @@ h1, h2 {
 *
 */
 
-.guinness-container {
-  background-color: #f6eded;
-  padding-bottom: 25px;
-}
 
 /*
 *
@@ -281,7 +290,6 @@ h1, h2 {
 
 .container-contact {
   background-color: #c8c8c8;
-  padding-bottom: 25px;
 }
 
 .offset {
@@ -317,6 +325,9 @@ h1, h2 {
 .destinations a:hover {
   color: #c7c0c0;
   text-decoration: none;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
 }
 
 .social-links {
@@ -342,7 +353,7 @@ h1, h2 {
 }
 
 .social-links li a i:hover {
-  background-color: #ff1919;
+  background-color: #b90738;
 }
 
 .back-to-top-tbn {
@@ -356,7 +367,10 @@ h1, h2 {
 }
 
 .far:hover {
-  color: red;
+  color: #b90738;
+  -moz-transition: color 0.35s ease-in-out;
+  -webkit-transition: color 0.35s ease-in-out;
+  -o-transition: color 0.35s ease-in-out;
 }
 
 /*
@@ -365,9 +379,4 @@ h1, h2 {
 *
 */
 
-.btn-success:hover {
-  color: white;
-  background-color: #05a005;
-  border-color: black;
-}
 

@@ -3,6 +3,34 @@ This project is built for [Code Institute](https://codeinstitute.net/) as a firs
 
 ## UX
 
+### User Stories
+
+* As a user I want to discover a new and interesting destinations in Dublin
+
+  * As a user I want to be recommended destinations
+
+      * As a user I want to watch videos of recommended destinations
+
+      * As a user I want to know some basic information about the recommended destinations
+
+  * As a user I want to provide a feedback
+
+      * As a user I want to type in my name
+
+      * As a user I want to type my email address
+
+      * As a user I want to write my feedback
+
+      * As a user I want to submit this information
+
+* As a user I want to book a trip in Dublin for the extended weekend
+
+  * As a user I want to type my email address to be contacted by the organizer
+
+  * As a user I want to write my interest (what I want to see etc.)
+
+  * As a user I want to submit this information
+
 ## Technologies Used
 I used following technologies for this particular project:
 * HTML5

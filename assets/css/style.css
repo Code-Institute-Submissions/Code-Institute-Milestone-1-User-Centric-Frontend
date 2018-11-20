@@ -417,8 +417,7 @@ h1, h2 {
 
 .far {
   font-size: 38px;
-  margin-top: 12px;
-  padding: 5px;
+  padding: 12px;
 }
 
 .far:hover {

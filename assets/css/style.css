@@ -80,6 +80,13 @@ h1, h2 {
   height: 250px;
 }
 
+@media (min-width: 1200px) {
+  .video-position {
+    width: 90%;
+    height: 350px;
+  }
+}
+
 .form__btn--margin-top {
   margin-top: 5px;
 }
@@ -102,6 +109,15 @@ h1, h2 {
 
 .anchor--pink:hover {
   color: #b35180; 
+}
+
+.container__p-text--justify {
+  text-align: justify;
+}
+
+.container__p-width--367px {
+  max-width: 367px;
+  margin: auto;
 }
 
 /*

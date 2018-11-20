@@ -275,7 +275,7 @@ h1, h2 {
    background: rgba(0,0,0,.72);
    border-radius: 100px;
    color: white;
-   overflow: hidden;
+   z-index: -1;
 }
 
 .jumbotron h1 {

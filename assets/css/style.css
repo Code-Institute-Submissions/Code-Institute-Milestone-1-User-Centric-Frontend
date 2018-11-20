@@ -103,8 +103,8 @@ h1, h2 {
   }
 }
 
-.form__btn--margin-fullWidth {
-  width: 693.6px;
+.form__btn--width-fullWidth {
+  width: 100%;
 }
 
 .anchor--pink {

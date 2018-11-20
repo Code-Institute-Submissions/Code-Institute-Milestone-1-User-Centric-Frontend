@@ -259,7 +259,7 @@ h1, h2 {
    background: url('../images/dublin_callout1.png');
    background-repeat: no-repeat;
    background-position: center center;
-   background-attachment: fixed;
+  
 
   -webkit-background-size: cover;
   -moz-background-size: cover;

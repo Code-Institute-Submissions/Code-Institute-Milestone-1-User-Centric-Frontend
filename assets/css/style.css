@@ -157,7 +157,7 @@ h1, h2 {
   text-align: center;
   background-color: rgba(0,0,0,.90);
   position: relative;
-  z-index: 1;
+  z-index: 1000;
 }
 
 .navbar-default .navbar-nav>li>a:focus,

@@ -103,6 +103,10 @@ h1, h2 {
   }
 }
 
+.form__btn--margin-fullWidth {
+  width: 693.6px;
+}
+
 .anchor--pink {
   color: #b35180; 
 }

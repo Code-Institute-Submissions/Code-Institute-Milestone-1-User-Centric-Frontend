@@ -1,5 +1,8 @@
 # Dublin Guide project
-This project is built for [Code Institute](https://codeinstitute.net/) as a first milestone project called _User Centric Frontend Development Milestone Project._
+This project is built for [Code Institute](https://codeinstitute.net/) as part of _Full Stack Development Diploma course_
+
+## Purpose
+This project is for all people who want to visit Dublin and do not know what they should visit. This Dublin Guide help them with their visiting plan.
 
 ## UX
 
@@ -42,6 +45,28 @@ I used following technologies for this particular project:
   * [BEM](http://getbem.com/) - used for cleaner style sheet
 
 ## Testing
+
+I tested my website manually as well as automated
+
+### Manual Testing
+
+The manual testing were accomplished mainly of the following technologies/tools:
+
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
+
+* Web browers such as:
+  * Chrome
+  * Opera
+  * Mozilla
+  * Explorer Edge
+  * Safari
+
+* Devices
+  * Desktop
+  * Mobile Phone
+
+#### Manual Testing Bugs
+The toggle navbar is behind the content in Safari.
 
 ## Deployment
 Live version can be found [here](https://tomas-kaiser.github.io/Code-Institute-Milestone-1-User-Centric-Frontend/)

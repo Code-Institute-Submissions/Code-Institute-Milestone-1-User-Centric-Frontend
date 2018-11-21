@@ -73,7 +73,23 @@ The automate testing was done using the following tools:
 
 * Chrome Lighthouse
 
-* HTML & CSS checker
+The Lighthouse is an open-source automated tool that audits website for performance, progresssive Web app, accessibility, best practices & SEO. The website current score as follows:
+
+```
+> Performance at 89
+> Progresssive Web app at 54
+> Accessibility at 86
+> Best practices at 92
+> SEO at 100
+
+the highest scode is 100
+
+```
+
+* HTML & CSS validator
+  * [HTML validator result](https://validator.w3.org) found one error from line 11 as the pipe key is illegal character in query.
+  * [CSS validator result](https://codebeautify.org/cssvalidate) did not find any major error.
+    * scroll-behavior: smooth; is not applicable for E, Safari, Opera. For more information visit [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior).
 
 ## Deployment
 Live version can be found [here](https://tomas-kaiser.github.io/Code-Institute-Milestone-1-User-Centric-Frontend/)

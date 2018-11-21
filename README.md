@@ -1,5 +1,5 @@
 # Dublin Guide project
-This project is built for [Code Institute](https://codeinstitute.net/) as part of _Full Stack Development Diploma course_
+This project is built for [Code Institute](https://codeinstitute.net/) as a part of _Full Stack Development Diploma course_
 
 ## Purpose
 This project is for all people who want to visit Dublin and do not know what they should visit. This Dublin Guide help them with their visiting plan.
@@ -34,6 +34,11 @@ This project is for all people who want to visit Dublin and do not know what the
 
   * As a user I want to submit this information
 
+### wireframes:
+The following wireframes were created in order to provide a starting point for the website skeleton:
+* [mobilde device](wareframes/wireframes_mobile.png)
+* [desktop device](wareframes/wireframes_desktop.png)
+
 ## Technologies Used
 I used following technologies for this particular project:
 * HTML5
@@ -43,6 +48,9 @@ I used following technologies for this particular project:
   * [Font awesome](https://fontawesome.com/) - used for arrow back-to-up button
   * [Google fonts](https://fonts.google.com/) - Roboto & Pattaya
   * [BEM](http://getbem.com/) - used for cleaner style sheet
+* [VS Studio Code](https://visualstudio.microsoft.com/cs/?rr=https%3A%2F%2Fwww.google.ie%2F)
+* [GIMP](https://www.gimp.org/)
+* [Balsamiq](https://balsamiq.com/)
 
 ## Testing
 
@@ -83,7 +91,6 @@ The Lighthouse is an open-source automated tool that audits website for performa
 > SEO at 100
 
 the highest scode is 100
-
 ```
 
 * HTML & CSS validator
@@ -92,7 +99,8 @@ the highest scode is 100
     * scroll-behavior: smooth; is not applicable for E, Safari, Opera. For more information visit [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior).
 
 ## Deployment
-Live version can be found [here](https://tomas-kaiser.github.io/Code-Institute-Milestone-1-User-Centric-Frontend/)
+The website was deployed on github.
+Live version of the website can be found [here](https://tomas-kaiser.github.io/Code-Institute-Milestone-1-User-Centric-Frontend/)
 
 
 ## Credits

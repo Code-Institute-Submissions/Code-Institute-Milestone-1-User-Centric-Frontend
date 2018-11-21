@@ -164,6 +164,10 @@ h1, h2 {
   z-index: 1000;
 }
 
+.navbar-collapse.in {
+  overflow: auto;
+}
+
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
    color: white;

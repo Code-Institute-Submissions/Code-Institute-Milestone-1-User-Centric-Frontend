@@ -68,6 +68,13 @@ The manual testing were accomplished mainly of the following technologies/tools:
 #### Manual Testing Bugs
 The toggle navbar is behind the content in Safari.
 
+## Automate Testing
+The automate testing was done using the following tools:
+
+* Chrome Lighthouse
+
+* HTML & CSS checker
+
 ## Deployment
 Live version can be found [here](https://tomas-kaiser.github.io/Code-Institute-Milestone-1-User-Centric-Frontend/)
 

@@ -36,8 +36,8 @@ This project is for all people who want to visit Dublin and do not know what the
 
 ### Wireframes:
 The following wireframes were created in order to provide a starting point for the website skeleton:
-* [mobile device](./wareframes/wireframes_mobile.png)
-* [desktop device](./wareframes/wireframes_desktop.png)
+* [mobile device](./wireframes/wireframes_mobile.png)
+* [desktop device](wireframes/wireframes_desktop.png)
 
 ## Technologies Used
 I used following technologies for this particular project:

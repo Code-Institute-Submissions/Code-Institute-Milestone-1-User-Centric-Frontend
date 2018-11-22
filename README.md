@@ -1,11 +1,8 @@
 # Dublin Guide Project
-This project is built for [Code Institute](https://codeinstitute.net/) as a part of _Full Stack Software Development Diploma course_. Project was focused for using semantic HTML5, CSS3 along with Bootstrap.
-
-## Purpose
-
+This project is built for [Code Institute](https://codeinstitute.net/) as a part of _Full Stack Software Development Diploma course_. Project was focused on using semantic HTML5, CSS3 along with Bootstrap.
 
 ## UX
-Dublin Guide project is aiming to people who want to visit Dublin and do not know what they should visit. This Guide help them with their visiting plan as well as they can asked for planning their trip in Dublin.
+Dublin Guide project is aiming at people who are heading to Dublin and do not know which places to visit. This Guide helps them with planning their journey so as they can get in touch with us and we will sort out everything for them.
 
 ### User Stories
 
@@ -43,7 +40,7 @@ The following wireframes were created in order to provide a starting point for t
 # Features
 The features were used as follow:
 * Navigation menu on signle scroll page
-* Button which execute a modal where you can asked for planning your trip in Dublin
+* Button which executes a modal where you can request arrangement for a trip
 
 ## Technologies Used
 I used following technologies for this particular project:
@@ -51,7 +48,7 @@ I used following technologies for this particular project:
 * CSS3
   * [Bootstrap 3](https://getbootstrap.com/docs/3.3/) - used for basic grid layout, navigation menu & modal
   * [Hover.css](http://ianlunn.github.io/Hover/) - used for animating hover in header (menu)
-  * [Font awesome](https://fontawesome.com/) - used for arrow back-to-up button
+  * [Font awesome](https://fontawesome.com/) - used for arrow back-to-up button & social icons
   * [Google fonts](https://fonts.google.com/) - Roboto & Pattaya
   * [BEM](http://getbem.com/) - used for cleaner style sheet
 * [VS Studio Code](https://visualstudio.microsoft.com/cs/?rr=https%3A%2F%2Fwww.google.ie%2F)
@@ -60,11 +57,11 @@ I used following technologies for this particular project:
 
 ## Testing
 
-I tested my website manually as well as automated
+I tested my website manually and I also exucuted automated testing.
 
 ### Manual Testing
 
-The manual testing were accomplished mainly of the following technologies/tools:
+The manual testing was accomplished mainly by using following technologies/tools:
 
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
 
@@ -72,7 +69,7 @@ The manual testing were accomplished mainly of the following technologies/tools:
   * Chrome
   * Opera
   * Mozilla
-  * Explorer Edge
+  * Microsoft Edge
   * Safari
 
 * Devices
@@ -82,8 +79,8 @@ The manual testing were accomplished mainly of the following technologies/tools:
 #### Manual Testing Bugs
 The toggle navbar is behind the content in Safari.
 
-## Automate Testing
-The automate testing was done using the following tools:
+## Automated Testing
+The automate testing was executed by the following tools:
 
 * Chrome Lighthouse
 
@@ -114,4 +111,4 @@ Live version of the website can be found [here](https://tomas-kaiser.github.io/C
 * background image was collected from [google images](www.google.com)
 
 # Contributing
-This repository is a part of project for Code Institute of a Full Stack Software Development course. Therefore, I most likely will not accept pull requests.
+This repository is a part of project for Code Institute of a Full Stack Software Development course. Therefore, I will most likely not accept pull requests.

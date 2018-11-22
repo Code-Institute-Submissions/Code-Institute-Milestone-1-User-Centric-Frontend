@@ -1,10 +1,11 @@
-# Dublin Guide project
-This project is built for [Code Institute](https://codeinstitute.net/) as a part of _Full Stack Development Diploma course_
+# Dublin Guide Project
+This project is built for [Code Institute](https://codeinstitute.net/) as a part of _Full Stack Software Development Diploma course_. Project was focused for using semantic HTML5, CSS3 along with Bootstrap.
 
 ## Purpose
-This project is for all people who want to visit Dublin and do not know what they should visit. This Dublin Guide help them with their visiting plan.
+
 
 ## UX
+Dublin Guide project is aiming to people who want to visit Dublin and do not know what they should visit. This Guide help them with their visiting plan as well as they can asked for planning their trip in Dublin.
 
 ### User Stories
 
@@ -36,8 +37,13 @@ This project is for all people who want to visit Dublin and do not know what the
 
 ### Wireframes:
 The following wireframes were created in order to provide a starting point for the website skeleton:
-* [mobile device](./wireframes/wireframes_mobile.png)
+* [mobile device](wireframes/wireframes_mobile.png)
 * [desktop device](wireframes/wireframes_desktop.png)
+
+# Features
+The features were used as follow:
+* Navigation menu on signle scroll page
+* Button which execute a modal where you can asked for planning your trip in Dublin
 
 ## Technologies Used
 I used following technologies for this particular project:
@@ -90,7 +96,7 @@ The Lighthouse is an open-source automated tool that audits website for performa
 > Best practices at 92
 > SEO at 100
 
-the highest scode is 100
+the highest score is 100
 ```
 
 * HTML & CSS validator
@@ -104,3 +110,8 @@ Live version of the website can be found [here](https://tomas-kaiser.github.io/C
 
 
 ## Credits
+* videos were collected from [youtube](www.youtube.com)
+* background image was collected from [google images](www.google.com)
+
+# Contributing
+This repository is a part of project for Code Institute of a Full Stack Software Development course. Therefore, I most likely will not accept pull requests.

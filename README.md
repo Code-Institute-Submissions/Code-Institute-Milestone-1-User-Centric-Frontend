@@ -77,7 +77,7 @@ The manual testing was accomplished mainly by using following technologies/tools
   * Mobile Phone
 
 #### Manual Testing Bugs
-The toggle navbar is behind the content in Safari. It has been sovled by adding as follow
+The toggle navbar was behind the content in Safari. It was solved by adding as follow
 ```
 .navbar-collapse.in {
   overflow: visible;

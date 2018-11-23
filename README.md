@@ -117,5 +117,5 @@ Live version of the website can be found [here](https://tomas-kaiser.github.io/C
 * videos were collected from [youtube](www.youtube.com)
 * background image was collected from [google images](www.google.com)
 
-# Contributing
+## Contributing
 This repository is a part of project for Code Institute of a Full Stack Software Development course. Therefore, I will most likely not accept pull requests.

@@ -77,7 +77,14 @@ The manual testing was accomplished mainly by using following technologies/tools
   * Mobile Phone
 
 #### Manual Testing Bugs
-The toggle navbar is behind the content in Safari.
+The toggle navbar is behind the content in Safari. It has been sovled by adding as follow
+```
+.navbar-collapse.in {
+  overflow: visible;
+  position: absolute;
+  width: 100%;
+}
+```
 
 ## Automated Testing
 The automate testing was executed by the following tools:

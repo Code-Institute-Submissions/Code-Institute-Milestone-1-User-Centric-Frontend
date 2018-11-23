@@ -57,7 +57,7 @@ I used following technologies for this particular project:
 
 ## Testing
 
-I tested my website manually and I also exucuted automated testing.
+I tested my website manually and I also executed automated testing.
 
 ### Manual Testing
 

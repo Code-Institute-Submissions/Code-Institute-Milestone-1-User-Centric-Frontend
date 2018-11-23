@@ -140,6 +140,8 @@ h1, h2 {
    position: absolute;
    width: 100%;
    border: 0;
+   z-index: 1000;
+   overflow: visible;
 }
 
 .navbar-default .navbar-brand {
